@@ -27,7 +27,7 @@
   "dependencies": {
     "bluebird": "3.x.x",
     "mysql": "^2.0.0",
-    "sqlite3": "^4.0.2",
+    "sqlite3": "^5.0.2",
     "underscore": "^1.6.0",
     "validate.io-array": "^1.0.6"
   },
